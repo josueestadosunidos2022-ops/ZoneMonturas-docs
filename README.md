@@ -2,7 +2,7 @@
 
 ## English
 
-Owned custom mounts, a stable, mount abilities, administrator grants and player mount trading. Open the stable with /montura; /montura invocar and /montura guardar summon/store the selected owned mount. /zonemonturas reload reloads config/ZONEMODS/zonemonturas/monturas.toml. Purchases/trades use the optional ZoneCrates wallet integration. Publish the matched beta17 pair; do not mix it with beta16 or earlier. Preserve owned mounts and existing data.
+Owned custom mounts, a stable, mount abilities, administrator grants and player mount trading. Open the stable with /montura; /montura invocar and /montura guardar summon/store the selected owned mount. /zonemonturas reload reloads config/ZONEMODS/zonemonturas/monturas.toml. Purchases/trades use the optional ZoneCrates wallet integration. Use the matched beta17 pair; do not mix it with beta16 or earlier. Preserve owned mounts and existing data.
 
 ## Español
 
