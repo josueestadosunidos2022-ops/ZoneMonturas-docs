@@ -1,4 +1,13 @@
-# ZoneMonturas 0.1.0-beta17
+# ZoneMonturas
+
+
+## Latest update / Última actualización — 0.1.0-beta18
+
+Llegan dos monturas originales al establo: Kitsune Astral y Dragón Sakura, con modelos, texturas y sonidos propios. La configuración incorpora sus entradas y conserva los ajustes anteriores.
+
+Two original mounts join the stable: Astral Kitsune and Sakura Dragon, each with its own model, textures and sounds. The configuration adds the new entries while keeping existing mount settings.
+
+[Release notes / Notas de versión](RELEASE-2026-11-17.md)
 
 ## English
 
