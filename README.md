@@ -1,7 +1,30 @@
 # ZoneMonturas
 
+## 0.1.0-beta18 · Forge 1.20.1 · Java 17
 
-## Latest update / Última actualización — 0.1.0-beta18
+### Español
+
+Llegan dos monturas originales al establo: Kitsune Astral y Dragón Sakura, con modelos, texturas y sonidos propios. La configuración incorpora sus entradas y conserva los ajustes anteriores.
+
+Instala juntos cliente y servidor beta18. ZoneCrates es opcional para compras e intercambios con cartera.
+
+### English
+
+Two original mounts join the stable: Astral Kitsune and Sakura Dragon, each with its own model, textures and sounds. The configuration adds the new entries while keeping existing mount settings.
+
+Install the beta18 client and server as a pair. ZoneCrates is optional for wallet purchases and trades.
+
+## Archivos de esta versión / Files for this version
+
+- [Servidor / Server](https://www.curseforge.com/minecraft/mc-mods/zonemonturas/files/9671176)
+- [Cliente / Client](https://www.curseforge.com/minecraft/mc-mods/zonemonturas/files/9671191)
+
+[Notas de versión / Release notes](RELEASE-2026-11-17.md)
+
+<details>
+<summary>Documentación de versiones anteriores / Earlier release documentation</summary>
+
+## Historical notes · Latest update / Última actualización — 0.1.0-beta18
 
 Llegan dos monturas originales al establo: Kitsune Astral y Dragón Sakura, con modelos, texturas y sonidos propios. La configuración incorpora sus entradas y conserva los ajustes anteriores.
 
@@ -41,3 +64,5 @@ Los archivos públicos conservan funciones con protección, sin fuentes, mapping
 ## Ownership / Titularidad
 
 Original ZONE code and artwork © Elgochogms. All Rights Reserved. Public documentation repository only; source and mappings remain private.
+
+</details>
